@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : configure.xml
+    Created on : 2010年12月27日, 上午10:05
+    Author     : princehaku
+    Description:
+        Purpose of the document follows.
+-->
+
+<qqmsger>
+    <!--验证码存放的路径-->
+    <imagecachepath>cache/</imagecachepath>
+    <!--验证码过期时间间隔 (ms)-->
+    <expiratime>60000</expiratime>
+</qqmsger>
